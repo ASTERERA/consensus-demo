@@ -1,8 +1,8 @@
 package main
 
 import (
-	"consensus-demo/node"
 	"flag"
+	"github.com/ASTERERA/consensus-demo/node"
 )
 
 func main() {

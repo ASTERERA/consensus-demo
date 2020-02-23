@@ -1,12 +1,12 @@
 package pos
 
 import (
-	"consensus-demo/consensus"
-	"consensus-demo/transation"
-	"consensus-demo/types"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/ASTERERA/consensus-demo/consensus"
+	"github.com/ASTERERA/consensus-demo/transation"
+	"github.com/ASTERERA/consensus-demo/types"
 )
 
 // 3个默认的候选者

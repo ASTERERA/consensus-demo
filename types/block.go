@@ -2,10 +2,10 @@ package types
 
 import (
 	"bytes"
-	"consensus-demo/utils"
 	"crypto/sha256"
 	"encoding/hex"
 	"encoding/json"
+	"github.com/ASTERERA/consensus-demo/utils"
 )
 
 type Block struct {

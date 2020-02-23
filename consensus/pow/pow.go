@@ -1,9 +1,9 @@
 package pow
 
 import (
-	"consensus-demo/consensus"
-	"consensus-demo/types"
 	"errors"
+	"github.com/ASTERERA/consensus-demo/consensus"
+	"github.com/ASTERERA/consensus-demo/types"
 )
 
 type Pow struct {

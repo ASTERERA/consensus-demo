@@ -1,14 +1,14 @@
 package node
 
 import (
-	"consensus-demo/blockchain"
-	"consensus-demo/consensus"
-	"consensus-demo/consensus/pos"
-	"consensus-demo/consensus/pow"
-	"consensus-demo/miner"
-	"consensus-demo/server"
 	"errors"
 	"fmt"
+	"github.com/ASTERERA/consensus-demo/blockchain"
+	"github.com/ASTERERA/consensus-demo/consensus"
+	"github.com/ASTERERA/consensus-demo/consensus/pos"
+	"github.com/ASTERERA/consensus-demo/consensus/pow"
+	"github.com/ASTERERA/consensus-demo/miner"
+	"github.com/ASTERERA/consensus-demo/server"
 	"time"
 )
 

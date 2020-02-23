@@ -1,11 +1,11 @@
 package server
 
 import (
-	"consensus-demo/blockchain"
-	"consensus-demo/miner"
-	"consensus-demo/transation"
-	"consensus-demo/types"
 	"encoding/json"
+	"github.com/ASTERERA/consensus-demo/blockchain"
+	"github.com/ASTERERA/consensus-demo/miner"
+	"github.com/ASTERERA/consensus-demo/transation"
+	"github.com/ASTERERA/consensus-demo/types"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"

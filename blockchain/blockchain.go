@@ -1,8 +1,8 @@
 package blockchain
 
 import (
-	"consensus-demo/consensus"
-	"consensus-demo/types"
+	"github.com/ASTERERA/consensus-demo/consensus"
+	"github.com/ASTERERA/consensus-demo/types"
 	"sync"
 )
 

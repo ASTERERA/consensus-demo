@@ -1,8 +1,8 @@
 package consensus
 
 import (
-	"consensus-demo/types"
 	"errors"
+	"github.com/ASTERERA/consensus-demo/types"
 )
 
 func TestFakeBlock(bc BlockChain, block *types.Block, cs Consensus, verifyBlock func(cs Consensus, bc BlockChain, block *types.Block) error) error {

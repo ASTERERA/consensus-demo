@@ -1,7 +1,7 @@
 package consensus
 
 import (
-	"consensus-demo/types"
+	"github.com/ASTERERA/consensus-demo/types"
 )
 
 type BlockChain interface {

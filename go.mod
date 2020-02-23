@@ -1,4 +1,4 @@
-module consensus-demo
+module github.com/ASTERERA/consensus-demo
 
 go 1.13
 

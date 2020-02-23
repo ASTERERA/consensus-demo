@@ -1,13 +1,13 @@
 package miner
 
 import (
-	"consensus-demo/blockchain"
-	"consensus-demo/consensus"
-	"consensus-demo/consensus/pow"
-	"consensus-demo/transation"
-	"consensus-demo/types"
 	"encoding/json"
 	"fmt"
+	"github.com/ASTERERA/consensus-demo/blockchain"
+	"github.com/ASTERERA/consensus-demo/consensus"
+	"github.com/ASTERERA/consensus-demo/consensus/pow"
+	"github.com/ASTERERA/consensus-demo/transation"
+	"github.com/ASTERERA/consensus-demo/types"
 	"sync/atomic"
 	"time"
 )
